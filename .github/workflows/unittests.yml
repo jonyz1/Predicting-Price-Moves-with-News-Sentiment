@@ -20,4 +20,4 @@ jobs:
 
     - name: Run script
       run: |
-        python notebooks/eda.ipynb
+        python notebooks/eda_analysis.ipynb
